@@ -1,0 +1,858 @@
+@media screen and (max-width:768px) {
+html,body{
+  overflow-x: hidden;
+}
+  .logo{
+    width: 30% !important;
+  }
+
+  .join {
+    margin-left: 0px !important;
+  }
+
+  .nav1{
+    margin-left: 3% !important;
+  }
+
+  .col6-1 h2 {
+    font-size: 1.6em !important;
+  }
+
+  .col6-1 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .join2 {
+    font-size: 0.8em !important;
+    padding: 10px 25px !important;
+  }
+
+  .join2:hover{
+        padding: 10px 25px !important;
+  }
+
+  .col6-1 {
+    margin-top: 8% !important;
+  }
+
+  .sec3-1 p,
+  .sec11-1 p,
+  .sec11-12 p {
+    width: 90%;
+  }
+
+  .sec3-1 h2,
+  .sec11-1 h2,
+  .sec11-12 h2 {
+    font-size: 2.1em;
+  }
+
+  .col6-2 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .col6-2 h4 {
+    margin-top: 10%;
+  }
+
+  .map {
+    width: 100%;
+  }
+
+  .s8-1 h3 {
+    font-size: 1.2em;
+  }
+
+
+  .view {
+    padding: 8px 82px;
+  }
+}
+
+
+@media screen and (max-width:640px) {
+html,body{
+  overflow-x: hidden;
+}
+
+.ft1 a {
+  width: 43%;
+}
+
+  .join3{
+    font-size: 0.9em !important;
+    padding: 9px 28px !important;
+  }
+
+  .join3:hover{
+    padding: 8px 28px !important;
+  }
+  .logo {
+    width: 27% !important;
+  }
+
+  .join {
+    margin-left: 0% !important;
+  }
+
+  .nav1{
+
+    margin-left: 3% !important;
+  }
+
+  .col6-1 h2 {
+    font-size: 1.6em !important;
+  }
+
+  .col6-1 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .join2 {
+    font-size: 0.8em !important;
+    padding: 9px 23px !important;
+  }
+
+  .join2:hover{
+        padding: 8px 23px !important;
+  }
+
+  .col6-1 {
+    margin-top: 8% !important;
+  }
+
+  .sec3-1 p,
+  .sec11-1 p,
+  .sec11-12 p {
+    width: 100%;
+  }
+
+  .sec3-1 h2,
+  .sec11-1 h2,
+  .sec11-12 h2 {
+    font-size: 1.8em;
+  }
+
+  .col6-2 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .col6-2 h4 {
+    margin-top: 10%;
+  }
+
+  .map {
+    width: 100%;
+  }
+
+  .s8-1 h3 {
+    font-size: 1.2em;
+  }
+
+
+  .view {
+    padding: 8px 82px;
+  }
+
+  .s9 h2 {
+    font-size: 2.2em;
+  }
+
+  .ul9 li a {
+    font-size: 1.2em;
+  }
+
+  .view {
+    padding: 8px 183px;
+  }
+
+  .s12-1 img {
+    width: 15.3%;
+  }
+
+  .join3 {
+    font-size: 1em;
+  }
+
+}
+
+@media screen and (max-width:480px) {
+html,body{
+  overflow-x: hidden;
+}
+
+  .logo{
+    width: 40% !important;
+  }
+
+
+  .join {
+    margin-left: 0% !important;
+  }
+
+  .nav1{
+margin-left: 3% !important;
+  }
+
+  .last li {
+    margin-right: 7% !important;
+  }
+
+
+  .code {
+    padding-bottom: 5%;
+  }
+
+  .col6-1 h2 {
+    font-size: 1.6em !important;
+  }
+
+  .col6-1 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .join2 {
+    font-size: 0.8em !important;
+    padding: 10px 20px;
+  }
+
+  .col6-1 {
+    margin-top: 8% !important;
+  }
+
+  .sec3-1 p,
+  .sec11-1 p,
+  .sec11-12 p {
+    width: 100%;
+  }
+
+  .sec3-1 h2,
+  .sec11-1 h2,
+  .sec11-12 h2 {
+    font-size: 1.8em;
+  }
+
+  .col6-2 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .col6-2 h4 {
+    margin-top: 10%;
+  }
+
+  .map {
+    width: 100%;
+  }
+
+  .s8-1 h3 {
+    font-size: 1.2em;
+  }
+
+
+  .view {
+    padding: 8px 82px;
+  }
+
+  .s9 h2 {
+    font-size: 2.2em;
+  }
+
+  .ul9 li a {
+    font-size: 1.2em;
+  }
+
+  .view {
+    padding: 8px 183px;
+  }
+
+  .s12-1 img {
+    width: 15.3%;
+  }
+
+  .join3 {
+    font-size: 0.75em !important;
+  }
+
+  .rs-1 {
+    margin-top: 9%;
+  }
+
+  .rs-2 {
+    margin: 4% 0px;
+  }
+
+  .col6-3 {
+    width: 100%;
+  }
+
+  .rs-3 {
+    margin-bottom: 3%;
+  }
+
+  .sec6-1 h2 {
+    font-size: 1.8em;
+    margin-top: 10%;
+  }
+
+  .s7-1 {
+    margin-bottom: 6%;
+  }
+
+  .s8-1 {
+    margin-bottom: 4%;
+  }
+
+  .view {
+    padding: 8px 153px;
+  }
+
+
+  .s11-2,
+  .s14,
+  .s9-2 {
+    margin-bottom: 4%;
+  }
+
+  .s112 {
+    padding: 5%;
+  }
+
+  .join3 {
+    font-size: 0.8em;
+  }
+
+  .lsc1 {
+    text-align: center;
+  }
+
+  .ft1 a {
+    width: 40%;
+  }
+
+ .last li a {
+    width: 100%;
+  }
+
+  .footer1 span {
+    font-size: 0.7em;
+  }
+
+  .footer1 h2 {
+    font-size: 1.5em;
+    text-align: start;
+  }
+
+  .ft3 h3 {
+    font-size: 0.8em;
+  }
+
+  .cc2 {
+    width: 33%;
+    margin-top: 5%;
+  }
+
+  .last li a{
+    background-color: #1fa84f;
+    width: 100%;
+}
+
+.lsc1 h2{
+    color: #b6b6b6;
+    font-size: 1.2em;
+    font-family: 'Poppins';
+}
+
+.lsc1 ul li a{
+    font-size: 0.9em !important;
+    color: #ddd !important;
+    font-family: Arial !important;
+}
+
+.lsc1 ul li a i{
+    font-size: 0.8em  !important;
+    color: #ddd !important;
+}
+
+.footer1 span{
+    font-size: 1em;
+    color: #5e5e5e;
+}
+
+.ft2 h2{
+    font-size: 1em;
+}
+
+.ft3 h3{
+    font-size: 0.9em;
+    font-family: Arial;
+    color: #d8d8d8;
+}
+
+.ft3 span{
+    width: 3px ;
+    height: 16px;
+    border-left: 1px solid #5e5e5e !important ;
+}
+
+
+}
+
+@media screen and (max-width:360px) {
+html,body{
+  overflow-x: hidden;
+}
+  .logo{
+    width: 40% !important;
+  }
+
+  .join {
+    margin-left: 0% !important;
+       padding: 8px 18px !important;
+  }
+
+  .join:hover{
+    padding: 7px 17px !important;
+  }
+
+  .nav1{
+   margin-left: 3% !important;
+  }
+
+
+   .join3 {
+    font-size: 0.7em !important;
+    padding: 2% 3% !important;
+  }
+
+  .code {
+    padding-bottom: 5%;
+  }
+
+  .col6-1 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .join2 {
+    font-size: 0.8em !important;
+    padding: 10px 20px;
+  }
+
+  .col6-1 {
+    margin-top: 8% !important;
+  }
+
+  .col6-1 h2, .col6-2 h2, .col6-3 h2, .sec6-1 h2{
+       font-size: 1.4em !important;
+  }
+
+  .sec3-1 p,
+  .sec11-1 p,
+  .sec11-12 p {
+    width: 100%;
+  }
+
+  .sec3-1 h2{
+    font-size: 1.5em;
+  }
+
+   .sec11-1 h2{
+    font-size: 2em;
+   }
+
+  .sec11-12 h2{
+    font-size: 1.4;
+  }
+
+   .join3 {
+    font-size: 0.7em !important;
+    padding: 2% 3% !important;
+  }
+
+  .ul20 li h3 {
+  font-size: 0.9em !important;}
+
+  .col6-2 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .col6-2 h4 {
+    margin-top: 10%;
+  }
+
+  .map {
+    width: 100%;
+  }
+
+  .s8-1 h3 {
+    font-size: 1.2em;
+  }
+
+
+  .view {
+    padding: 8px 92px !important;
+  }
+
+  .s9 h2 {
+    font-size: 2.2em;
+  }
+
+  .ul9 li a {
+    font-size: 1.2em;
+  }
+
+  .view {
+    padding: 8px 183px;
+  }
+
+  .s12-1 img {
+    width: 19.3%;
+  }
+
+  .join3 {
+    font-size: 1em;
+  }
+
+  .rs-1 {
+    margin-top: 9%;
+  }
+
+  .rs-2 {
+    margin: 4% 0px;
+  }
+
+  .col6-3 {
+    width: 100%;
+  }
+
+
+  .rs-3 {
+    margin-bottom: 3%;
+  }
+
+  .sec6-1 h2 {
+    font-size: 1.8em;
+    margin-top: 10%;
+  }
+
+  .s7-1 {
+    margin-bottom: 6%;
+  }
+
+  .s8-1 {
+    margin-bottom: 4%;
+  }
+
+  .view {
+    padding: 8px 153px;
+  }
+
+
+  .s11-2,
+  .s14,
+  .s9-2 {
+    margin-bottom: 4%;
+  }
+
+  .s112 {
+    padding: 5%;
+  }
+
+  .join3 {
+    font-size: 0.70em !important;
+    padding: 6px 16px !important;
+  }
+
+  .join3:hover{
+    padding: 5px 16px !important;
+  }
+  .lsc1 {
+    text-align: center;
+  }
+
+  .ft1 a {
+    width: 50%;
+  }
+
+  .last li a {
+    width: 100%;
+  }
+
+  .last li {
+    margin-right: 9% !important;
+
+  }
+
+  .footer1 span {
+    font-size: 0.8em;
+  }
+
+
+  .footer1 h2 {
+    font-size: 1.5em;
+    text-align: start;
+  }
+
+  .map{
+    height: 300px;
+  }
+
+  .ft3 {
+    padding-left: 28%;
+  }
+
+  .ft3 h3 {
+    font-size: 0.57em;
+  }
+
+  .cc2 {
+    width: 33%;
+    margin-top: 5% !important;
+  }
+
+}
+
+@media screen and (max-width:320px) {
+html,body{
+  overflow-x: hidden;
+}
+  .logo{
+    width: 45% !important;
+  }
+
+  .join {
+    margin-left: 0% !important;
+  }
+
+  .nav1{
+   margin-left: 3% !important;
+  }
+
+ .ul9 li a {
+    font-size: 0.90em !important;
+  }
+
+  .content ul li a{
+   font-size: 0.90em !important;
+  }
+  .s7-1 h2{
+    font-size: 2em;
+  }
+
+  .join {
+    font-size: 0.9em;
+    margin-left: 0% !important;
+    padding: 8px 16px !important;
+  }
+
+  .join:hover{
+    padding: 7px 15px !important;
+  }
+
+  .code {
+    padding-bottom: 5%;
+  }
+
+  .col6-1 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .join2 {
+    font-size: 0.8em !important;
+    padding: 10px 20px;
+  }
+
+  .col6-1 {
+    margin-top: 8% !important;
+  }
+
+  .col6-1 h2, .col6-2 h2, .col6-3 h2, .sec6-1 h2{
+       font-size: 1.4em !important;
+  }
+
+  .sec3-1 p,
+  .sec11-1 p,
+  .sec11-12 p {
+    width: 100%;
+  }
+
+  .sec3-1 h2{
+    font-size: 1.5em;
+  }
+
+   .sec11-1 h2{
+    font-size: 2em;
+   }
+
+  .sec11-12 h2{
+    font-size: 1.4;
+  }
+
+   .join3 {
+    font-size: 0.7em !important;
+    padding: 2% 3% !important;
+  }
+
+  .ul20 li h3 {
+  font-size: 0.9em !important;}
+
+  .col6-2 p {
+    font-size: 0.7em !important;
+    line-height: 23px !important;
+  }
+
+  .col6-2 h4 {
+    margin-top: 10%;
+  }
+
+  .map {
+    width: 100%;
+  }
+
+  .s8-1 h3 {
+    font-size: 1.2em;
+  }
+
+
+  .view {
+    padding: 8px 73px !important;
+  }
+
+  .s9 h2 {
+    font-size: 2.2em;
+  }
+
+  .ul9 li a {
+    font-size: 1.2em;
+  }
+
+  .ul-el li a{
+    font-size: 0.8em;
+  }
+
+    .ul20 li h3{
+      font-size: 0.8em !important;
+    }
+
+  .s12-1 img {
+    width: 19.3%;
+  }
+
+  .join3 {
+    font-size: 1em;
+  }
+
+  .rs-1 {
+    margin-top: 9%;
+  }
+
+  .rs-2 {
+    margin: 4% 0px;
+  }
+
+  .col6-3 {
+    width: 100%;
+  }
+
+
+  .rs-3 {
+    margin-bottom: 3%;
+  }
+
+  .sec6-1 h2 {
+    font-size: 1.8em;
+    margin-top: 10%;
+  }
+
+  .s7-1 {
+    margin-bottom: 6%;
+  }
+
+  .s8-1 {
+    margin-bottom: 4%;
+  }
+
+  .view {
+    padding: 8px 153px;
+  }
+
+
+  .s11-2,
+  .s14,
+  .s9-2 {
+    margin-bottom: 4%;
+  }
+
+  .s112 {
+    padding: 5%;
+  }
+
+  .join3 {
+    font-size: 0.62em !important;
+    padding: 8px 16px !important;
+  }
+
+  .join3:hover{
+    padding: 7px 15px !important;
+  }
+  .lsc1 {
+    text-align: center;
+  }
+
+  .ft1 a {
+    width: 50%;
+  }
+
+  .last li a {
+    width: 100%;
+  }
+
+  .last li {
+    margin-right: 9% !important;
+
+  }
+
+  .last li a i {
+  font-size: 0.9em;
+}
+
+ .lsc1 ul li a{
+  font-size: 0.8em !important;
+ }
+
+  .footer1 span {
+    font-size: 0.6em;
+  }
+
+
+  .footer1 h2 {
+    font-size: 1em;
+    text-align: start;
+  }
+
+  .map{
+    height: 300px;
+  }
+
+  .ft3 {
+    padding-left: 28%;
+  }
+
+  .ft3 h3 {
+    font-size: 0.57em;
+  }
+
+  .cc2 {
+    width: 33%;
+    margin-top: 5% !important;
+  }
+
+}
